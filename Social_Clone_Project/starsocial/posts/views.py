@@ -8,7 +8,7 @@ from django.http import Http404
 
 from braces.views import SelectRelatedMixin
 
-from . import models,forms
+from . import models
 
 from django.contrib.auth import get_user_model
 
